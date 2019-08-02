@@ -341,7 +341,7 @@ OPTIONS:
   -b VAR, --bin-variable VAR
     Sets which variables to bin over.
     Available: zenith, energy, telescope, azimuth, offset, all.
-        Default: zenith, energy, telescope.
+    Default: zenith, energy, telescope.
     
     -t FILETYPE, --filetype FILETYPE
         Format of input ROOT file.
